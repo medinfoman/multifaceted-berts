@@ -1,0 +1,3 @@
+generate cache data for pretraining
+use sentencepiece tokenizer
+the tokenizer model and vocabulary are publicly available at https://github.com/SKTBrain/KoBERT
