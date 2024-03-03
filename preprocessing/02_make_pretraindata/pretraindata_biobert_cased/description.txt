@@ -1,0 +1,2 @@
+generate cache data for pretraining
+use google bert original tokenization.py and file_utils.py
