@@ -1,0 +1,9 @@
+<English>
+  For each BERT model, we create a features dataset to be used for pretraining.
+When you run the code in each folder, feature datasets that can be used for pretraining will be made in cache folder as pickle form. (extension name is .cache)
+For pretraining, we modified the code so that the Masked Language Modeling (MLM) code published on huggingface reads these pickle files.
+
+< Korean >
+  각 BERT 모델마다 pretraining 에 사용할 features dataset 을 만듧니다.
+각 폴더내의 코드를 실행시키면 cache 폴더안에 pretraining 에 사용될 수 있는 feature datasets 가 pickle 형태로 출력됩니다. (확장자명은 .cache) 
+Pretraining 을 위해서 우리는 huggingface 에 공개된 Masked Language Modeling (MLM) 코드가 이 파일들을 읽도록 코드를 수정하였습니다. 
