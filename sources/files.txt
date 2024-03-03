@@ -1,0 +1,1 @@
+Original patient visit records should be in this directory as excel file.
