@@ -1,2 +1,3 @@
 Task 5 is an iteration of Task 4, wherein the arrangement of sections within the document is predetermined and fixed. 
 Conversely, Task 4 involves a mixed order of sections within the document.
+Thus, Task 5 utilizes the identical code as Task 4, and also requires execution of the "step04.03_sort_sections.ipynb" notebook to organize the sections' order accordingly.
