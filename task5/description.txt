@@ -1,5 +1,2 @@
-task 5 는 task 4 에서 문서 내 섹션의 순서를 고정시킨 버전입니다.
-task 4 에서는 문서 내의 섹션의 순서가 섞여있습니다.
-
 Task 5 is an iteration of Task 4, wherein the arrangement of sections within the document is predetermined and fixed. 
 Conversely, Task 4 involves a mixed order of sections within the document.
