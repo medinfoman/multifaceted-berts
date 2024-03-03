@@ -1,0 +1,1 @@
+Text files containing pretraining data should be stored within the "SNUH_visit_2011to2020" folder. Due to privacy concerns regarding patient records, we are unable to release the data as open source.
