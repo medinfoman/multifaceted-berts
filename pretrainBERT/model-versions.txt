@@ -5,5 +5,5 @@ mbert_cased	8.1.4
 
 
 We will open our pretrained BERT models publicly after IRB review board approval.
-All models were pretrained on about visit records in Seoul National University Hospital in South Korea.
-The number of target patients were 160,000. 
+All models were pretrained on visit records in Seoul National University Hospital in South Korea.
+The number of target patients were about 160,000. 
