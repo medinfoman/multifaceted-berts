@@ -1,4 +1,6 @@
-Download BERT models publickly available in this folder
+Download BERT models publickly available in this folder.
+Convert the Tensorflow models to Pytorch version and name it "pytorch_model.bin" (see huggingface's convert codes)
+Then, place the "pytorch_model.bin" in corresponding model folder.
 We used following BERT models in our study:
 - bertbase_cased
 - bioBERT/biobert_v1.1_pubmed
