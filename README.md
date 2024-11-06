@@ -5,8 +5,6 @@ Read the paper here: https://medinform.jmir.org/2024/1/e52897
 
 This study provides a comprehensive evaluation of BERT models across various NLP tasks in bilingual clinical notes, assessing their performance and applicability in clinical settings.
 
-We will be adding detailed summaries of each section soon!
-
 
 # Citation
 If you find our work useful, please cite it as follows:
