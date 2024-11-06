@@ -1,4 +1,4 @@
-# multifaceted-berts
+# Paper Overview
 We are pleased to announce that our paper, "Multifaceted Natural Language Processing Task–Based Evaluation of Bidirectional Encoder Representations From Transformers Models for Bilingual (Korean and English) Clinical Notes: Algorithm Development and Validation," has been accepted for publication in **JMIR Medical Informatics**.
 
 Read the paper here: https://medinform.jmir.org/2024/1/e52897
